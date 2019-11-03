@@ -1,0 +1,10 @@
+*.dll
+*.pdb
+obj/**
+bin/**
+runtimes/**
+/.vs/CoreBot
+/PostDeployScripts/pizzabotluis.PublishSettings
+/Properties/PublishProfiles
+/MicrosoftPizza.bot
+/publish.cmd
