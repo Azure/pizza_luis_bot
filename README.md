@@ -8,7 +8,7 @@ This sample **requires** prerequisites in order to run.
 
 ### Overview
 
-This bot uses [LUIS](https://www.luis.ai), an AI based cognitive service, to implement language understanding.
+This bot uses [LUIS](https://www.preview.luis.ai), an AI based cognitive service, to implement language understanding.
 
 ### Install .NET Core CLI
 
